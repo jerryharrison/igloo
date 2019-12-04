@@ -3,10 +3,6 @@
   "version": "0.0.9",
   "description": "Igloo is a lightweight, fast, and minimal framework for rapid development",
   "main": "./lib",
-  "engines": {
-    "iojs": "2.0.x",
-    "node": "0.12.x"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/niftylettuce/igloo.git"
